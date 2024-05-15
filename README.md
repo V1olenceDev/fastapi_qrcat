@@ -1,4 +1,4 @@
-# QRKot Google Sheets
+# QRKot
  
 ![workflows](https://github.com/ThatCoderMan/QRkot_spreadsheets/actions/workflows/workflow.yml/badge.svg)
 
