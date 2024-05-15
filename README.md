@@ -2,19 +2,6 @@
  
 ![workflows](https://github.com/ThatCoderMan/QRkot_spreadsheets/actions/workflows/workflow.yml/badge.svg)
 
-<details>
-<summary>Project stack</summary>
-
-- Python 3.9
-- FastAPI
-- Pydantic
-- SQLAlchemy
-- Alembic
-- Aiogoogle
-- GitHub Actions
-
-</details>
-
 
 Фонд собирает пожертвования на различные целевые проекты: на медицинское обслуживание нуждающихся хвостатых, на обустройство кошачьей колонии в подвале, на корм оставшимся без попечения кошкам — на любые цели, связанные с поддержкой кошачьей популяции.
 
